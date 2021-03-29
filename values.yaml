@@ -3,4 +3,4 @@ Cache2:
   Cache3: data3
 Cache4:
   Key1: Value1
-Key2: Value2
+Key2: ${key}
